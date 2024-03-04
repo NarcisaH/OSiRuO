@@ -1,4 +1,4 @@
-# OSiRuO
+# OSiRuO - Ljetni semestar 2024
  Materijali s vježbi za predmet Operativni sistemi i računarstvo u oblaku
 
 
