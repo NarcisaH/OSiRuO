@@ -2,7 +2,7 @@
  Materijali s vježbi za predmet Operativni sistemi i računarstvo u oblaku
 
 
-<a href="#"><img width="100%" height="auto" src="https://th.bing.com/th/id/R.ac46788c1cb8ae7ef519f2bb39db4b6d?rik=rAsaGGItRHh%2frg&pid=ImgRaw&r=0" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images.wallpapersden.com/image/wxl-anonymous-hacker-working_74024.jpg" height="175px"/></a>
 
 
 <h1 align="center">Operativni sistemi i računarstvo u oblaku (B1 i A1)</h3>
