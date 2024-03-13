@@ -1,0 +1,3 @@
+- Kreiranje Virualne mašine koristeći Vagrant: https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index
+
+- Povezivanje s mašinom preko SSH kanala: https://developer.hashicorp.com/vagrant/docs/cli/ssh
